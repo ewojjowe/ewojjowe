@@ -88,6 +88,7 @@
 <div align="center">
 
 *Thanks for visiting! Let's build something great together. 🚀*
+[Let's learn together](https://night-shift-app.onrender.com/welcome)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ewojjowe&color=brightgreen&style=flat-square)
 
